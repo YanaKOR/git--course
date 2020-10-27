@@ -1,0 +1,1 @@
+document.body.Innerhtml='<h1>hello from java script</h1>'
